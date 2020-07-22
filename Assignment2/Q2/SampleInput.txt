@@ -1,0 +1,18 @@
+PICKUP 6
+oil 1
+wheat 2
+lumber 3
+engine
+oil 4
+oil 6
+PRINT
+DROPLAST 2
+PRINT
+DROP oil 3
+PICKUP 3
+oil 1
+wheat 2
+lumber 3
+PRINT
+DROPFIRST 15
+PRINT
